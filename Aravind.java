@@ -3,7 +3,7 @@ package org.xmlClass;
 import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement
 public class Aravind {
-
+private int a=10;
 
 	private int productId;
 	private String productName;

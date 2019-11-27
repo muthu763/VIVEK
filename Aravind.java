@@ -3,10 +3,13 @@ package org.xmlClass;
 import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement
 public class Aravind {
+
+
+
+private int a=10;
 private void sysout() {
 
 }
-
 	private int productId;
 	private String productName;
 	private int qty;
